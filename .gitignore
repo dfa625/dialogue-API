@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -133,3 +134,8 @@ dist
 # Node.js stiff
 node_modules/
 
+=======
+node_modules/
+.env
+secret.env
+>>>>>>> c024dae (Add .gitignore file)
